@@ -1,0 +1,14 @@
+mat-card {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+img {
+  margin: 20px;
+  width: 30vw;
+  padding: 20px;
+  margin: auto;
+}
